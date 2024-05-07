@@ -7,3 +7,6 @@
 [submodule "robot_operator"]
 	path = robot_operator
 	url = https://github.com/RO-BIT-Intelligence-Robot-Team/robot_operator.git
+[submodule "mobile_base_joy"]
+	path = mobile_base_joy
+	url = https://github.com/RO-BIT-Intelligence-Robot-Team/mobile_base_joy.git

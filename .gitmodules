@@ -1,9 +1,6 @@
 [submodule "mobile_base_msgs"]
 	path = mobile_base_msgs
 	url = https://github.com/RO-BIT-Intelligence-Robot-Team/mobile_base_msgs.git
-[submodule "com_master"]
-	path = com_master
-	url = https://github.com/RO-BIT-Intelligence-Robot-Team/com_master.git
 [submodule "robot_operator"]
 	path = robot_operator
 	url = https://github.com/RO-BIT-Intelligence-Robot-Team/robot_operator.git

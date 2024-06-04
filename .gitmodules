@@ -7,3 +7,6 @@
 [submodule "mobile_base_joy"]
 	path = mobile_base_joy
 	url = https://github.com/RO-BIT-Intelligence-Robot-Team/mobile_base_joy.git
+[submodule "2024_base_simulation"]
+	path = 2024_base_simulation
+	url = https://github.com/Team-ROBIT/2024_base_simulation.git

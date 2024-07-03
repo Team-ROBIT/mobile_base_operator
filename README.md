@@ -44,5 +44,6 @@ Type: string
 Value: /split_image/output/vertical00/horizontal01
 
 <div align="center">
+  
 <img src="https://raw.githubusercontent.com/Team-ROBIT/mobile_base_operator/doc/gui.png" alt="gui" width="150" height="100">
 </div>

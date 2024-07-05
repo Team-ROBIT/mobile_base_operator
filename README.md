@@ -13,11 +13,8 @@ Team RO:BIT Mobile Base Robot KULS Operator package.
 #### Build from source.
 ```shell
 $ cd ~/${workspace_name}/src
-$ git clone https://github.com/RO-BIT-Intelligence-Robot-Team/mobile_base_operator.git
-$ cd mobile_base_operator
-$ git submodule init
-$ git submodule update
-$ cd ../..
+$ git clone --recurse-submodules https://github.com/RO-BIT-Intelligence-Robot-Team/mobile_base_operator.git
+$ cd ~/${workspace_name}
 $ catkin_make
 ```
 

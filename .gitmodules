@@ -10,3 +10,13 @@
 [submodule "2024_base_simulation"]
 	path = 2024_base_simulation
 	url = https://github.com/Team-ROBIT/2024_base_simulation.git
+[submodule "mobile_base_udp"]
+	path = mobile_base_udp
+	url = https://github.com/Team-ROBIT/mobile_base_udp.git
+[submodule "robit_udp"]
+	path = robit_udp
+	url = https://github.com/Team-ROBIT/robit_udp.git
+	branch = develop_24
+[submodule "qt_ros"]
+	path = qt_ros
+	url = https://github.com/mjlee111/qt_ros.git

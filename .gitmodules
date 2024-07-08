@@ -20,3 +20,6 @@
 [submodule "qt_ros"]
 	path = qt_ros
 	url = https://github.com/mjlee111/qt_ros.git
+[submodule "audio_common"]
+	path = audio_common
+	url = https://github.com/ros-drivers/audio_common.git
